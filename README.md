@@ -116,6 +116,9 @@ Total and sub-totals for financial planning
 
 
 
-**Ishaan Guleria**  
-💼 Data Analyst | Infosys  
-📧 [Email](mailto:your.email@example.com) | 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
+## 🌟 About Me
+Hi there! I'm **Ishaan Guleria** — An IT professional passionate about learning, building, and delivering impactful solutions that drive real-world results.
+
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ishaan-guleria-865858200/)
